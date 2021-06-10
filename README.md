@@ -1,16 +1,33 @@
-### Hi there 👋
+ Hi  welcome to my Github!
+ 
+<p align="left">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+</p>
 
-<!--
-**IlkaCarmo/IlkaCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :nerd_face: I'm currently learning: </br>
+- React
+- C#
+- Javascrip
+- html
+- css </br>
+- SqlServer
 
-Here are some ideas to get you started:
+### :thinking: I want to learn:
+Pyton</br>
+### Outside of coding I enjoy:
+- Playing video games
+- Read books
+- Sci-fi movies/tv shows :vulcan_salute:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ 
+ 
