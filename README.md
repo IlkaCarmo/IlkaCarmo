@@ -14,6 +14,7 @@
 ### :nerd_face: I'm currently learning: </br>
 - React
 - C#
+- .Net
 - Javascrip
 - html
 - css </br>
