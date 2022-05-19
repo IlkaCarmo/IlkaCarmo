@@ -18,7 +18,7 @@
 </p>
 
 ### :nerd_face: I'm currently learning: </br>
-- React
+- React-native
 - C#
 - .Net
 - Javascrip
