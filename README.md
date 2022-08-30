@@ -7,7 +7,6 @@
 </div>
  
 <p align="left">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
