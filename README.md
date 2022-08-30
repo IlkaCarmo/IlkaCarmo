@@ -18,13 +18,16 @@
 </p>
 
 ### :nerd_face: I'm currently learning: </br>
-- React-native
 - C#
 - .Net
 - Javascrip
 - html
 - css </br>
 - SqlServer
+- CosmoDb
+- MongoDb
+- Mysql
+- Azure
 
 ### :thinking: I want to learn:
 - Pyton</br>
